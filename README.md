@@ -1,1 +1,1 @@
-# GithubCloneProject
+# JS-Fundamentals
